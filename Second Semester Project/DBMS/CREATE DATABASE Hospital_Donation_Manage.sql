@@ -1,0 +1,1 @@
+-- CREATE DATABASE Hospital_Donation_Management_System;
